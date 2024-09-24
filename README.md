@@ -3,17 +3,17 @@
 
 
 **Version:** 0.1.0
-
-  
+ 
 
 This repository contains the **Gravite Plugin** for **Backfill** in the **Yieldlove AdIntegration SDK**.
 
   
-
 •  **Compatibility**: This plugin is compatible with **Yieldlove AdIntegration version 6.22.0** and above.
 
 
 The Gravite Plugin enhances the functionality of the Yieldlove AdIntegration SDK by enabling backfill support, ensuring optimized ad delivery and monetization.
+
+**Note: Follow the integration steps—there’s no need to download any files from this repository.**
 
   
 ## How to integrate the Gravite Plugin.
